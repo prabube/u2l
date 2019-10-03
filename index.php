@@ -58,10 +58,5 @@
           </div>
   </div>
 </div>
-<?php
-
-echo '<script>alert("Amazing"); var name="Prabu Mani";</script>';
-
-?>
 </body>
 </html>
