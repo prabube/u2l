@@ -60,7 +60,7 @@
 </div>
 <?php
 
-echo '<h1>Amazing World.......</h1>';
+echo '<script>alert("Amazing"); var name="Prabu Mani";</script>';
 
 ?>
 </body>
