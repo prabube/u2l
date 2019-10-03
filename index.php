@@ -58,6 +58,10 @@
           </div>
   </div>
 </div>
+<?php
 
+echo '<h1>Amazing World.......</h1>';
+
+?>
 </body>
 </html>
