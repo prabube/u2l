@@ -1,0 +1,5 @@
+# Welcome to URL TO LINK =)
+# robots welcome;
+# API documentation can be found at http://url2l.com/
+User-Agent: *
+Disallow:
