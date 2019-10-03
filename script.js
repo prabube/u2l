@@ -16,7 +16,7 @@ $(document).ready(function(){
   }
 
 function getNewURL(str){
-  // $.get("output.json", function(data, status){
-   // alert("Data: " + data + "\nStatus: " + status);
-  //});
+   $.get("output.json", function(data, status){
+    alert("Data: " + data + "\nStatus: " + status);
+  });
 }
